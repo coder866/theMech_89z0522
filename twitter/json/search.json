@@ -1,0 +1,679 @@
+{
+  "globalObjects": {
+    "tweets": {
+      "1502724260820836364": {
+        "created_at": "Sat Mar 12 19:12:37 +0000 2022",
+        "id": 1502724260820836400,
+        "id_str": "1502724260820836364",
+        "text": "𝓓𝓡𝓤𝓝𝓚, 𝓑𝓔𝓒𝓞𝓜𝓔 𝓢𝓗𝓞𝓤𝓛𝓓 𝓢𝓟𝓔𝓐𝓚 ✨✨\n\nhttps://t.co/sOkdkhYi8k https://t.co/Qzh6wgignE",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/sOkdkhYi8k",
+              "expanded_url": "https://twitter.com/i/spaces/1ynJOZWbZRzGR",
+              "display_url": "twitter.com/i/spaces/1ynJO…",
+              "indices": [
+                31,
+                54
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 1502724259185143800,
+              "id_str": "1502724259185143819",
+              "indices": [
+                55,
+                78
+              ],
+              "media_url": "http://pbs.twimg.com/media/FNq_wIAXsAsm5lG.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FNq_wIAXsAsm5lG.jpg",
+              "url": "https://t.co/Qzh6wgignE",
+              "display_url": "pic.twitter.com/Qzh6wgignE",
+              "expanded_url": "https://twitter.com/Shannon06982627/status/1502724260820836364/photo/1",
+              "type": "photo",
+              "original_info": {
+                "width": 1024,
+                "height": 1024,
+                "focus_rects": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "h": 573,
+                    "w": 1024
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 1024
+                  },
+                  {
+                    "x": 126,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 898
+                  },
+                  {
+                    "x": 486,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 512
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 1024
+                  }
+                ]
+              },
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1502724259185143800,
+              "id_str": "1502724259185143819",
+              "indices": [
+                55,
+                78
+              ],
+              "media_url": "http://pbs.twimg.com/media/FNq_wIAXsAsm5lG.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FNq_wIAXsAsm5lG.jpg",
+              "url": "https://t.co/Qzh6wgignE",
+              "display_url": "pic.twitter.com/Qzh6wgignE",
+              "expanded_url": "https://twitter.com/Shannon06982627/status/1502724260820836364/photo/1",
+              "type": "photo",
+              "original_info": {
+                "width": 1024,
+                "height": 1024,
+                "focus_rects": [
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "h": 573,
+                    "w": 1024
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 1024
+                  },
+                  {
+                    "x": 126,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 898
+                  },
+                  {
+                    "x": 486,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 512
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 1024
+                  }
+                ]
+              },
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              },
+              "media_key": "3_1502724259185143819"
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 1500256471883616300,
+        "user_id_str": "1500256471883616258",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 103,
+        "favorite_count": 102,
+        "conversation_id": 1502724260820836400,
+        "conversation_id_str": "1502724260820836364",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "en",
+        "supplemental_language": null
+      },
+      "1502724215602094086": {
+        "created_at": "Sat Mar 12 19:12:26 +0000 2022",
+        "id": 1502724215602094000,
+        "id_str": "1502724215602094086",
+        "text": "𝘿𝙀𝘾𝘼𝘿𝙀𝙎. 𝙋𝙃𝙔𝙎𝙄𝘾𝙄𝙎𝙏𝙎 𝙈𝙄𝙇𝙀𝙎 𝘼𝙋𝘼𝙍𝙏. ✨✨\n\nhttps://t.co/hjrO5L0CgE https://t.co/q0Nl6asjOE",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/hjrO5L0CgE",
+              "expanded_url": "https://twitter.com/i/spaces/1ynJOZWbZRzGR",
+              "display_url": "twitter.com/i/spaces/1ynJO…",
+              "indices": [
+                37,
+                60
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 1502724213525954600,
+              "id_str": "1502724213525954565",
+              "indices": [
+                61,
+                84
+              ],
+              "media_url": "http://pbs.twimg.com/media/FNq_td6XwAUWBc7.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FNq_td6XwAUWBc7.jpg",
+              "url": "https://t.co/q0Nl6asjOE",
+              "display_url": "pic.twitter.com/q0Nl6asjOE",
+              "expanded_url": "https://twitter.com/LauraFr72834615/status/1502724215602094086/photo/1",
+              "type": "photo",
+              "original_info": {
+                "width": 1024,
+                "height": 1024,
+                "focus_rects": [
+                  {
+                    "x": 0,
+                    "y": 251,
+                    "h": 573,
+                    "w": 1024
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 1024
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 898
+                  },
+                  {
+                    "x": 25,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 512
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 1024
+                  }
+                ]
+              },
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1502724213525954600,
+              "id_str": "1502724213525954565",
+              "indices": [
+                61,
+                84
+              ],
+              "media_url": "http://pbs.twimg.com/media/FNq_td6XwAUWBc7.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FNq_td6XwAUWBc7.jpg",
+              "url": "https://t.co/q0Nl6asjOE",
+              "display_url": "pic.twitter.com/q0Nl6asjOE",
+              "expanded_url": "https://twitter.com/LauraFr72834615/status/1502724215602094086/photo/1",
+              "type": "photo",
+              "original_info": {
+                "width": 1024,
+                "height": 1024,
+                "focus_rects": [
+                  {
+                    "x": 0,
+                    "y": 251,
+                    "h": 573,
+                    "w": 1024
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 1024
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 898
+                  },
+                  {
+                    "x": 25,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 512
+                  },
+                  {
+                    "x": 0,
+                    "y": 0,
+                    "h": 1024,
+                    "w": 1024
+                  }
+                ]
+              },
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 1024,
+                  "resize": "fit"
+                }
+              },
+              "media_key": "3_1502724213525954565"
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user_id": 1499754322711969800,
+        "user_id_str": "1499754322711969796",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 107,
+        "favorite_count": 107,
+        "conversation_id": 1502724215602094000,
+        "conversation_id_str": "1502724215602094086",
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "lang": "en",
+        "supplemental_language": null
+      }
+    },
+    "users": {
+      "1500256471883616258": {
+        "id": 1500256471883616300,
+        "id_str": "1500256471883616258",
+        "name": "Shannon Harris",
+        "screen_name": "Shannon06982627",
+        "location": "",
+        "description": "Of greenbacks on openly showing his love",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 50,
+        "fast_followers_count": 0,
+        "normal_followers_count": 50,
+        "friends_count": 0,
+        "listed_count": 0,
+        "created_at": "Sat Mar 05 23:46:55 +0000 2022",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8,
+        "media_count": 4,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1502459203373481990/_vPU-xfj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1502459203373481990/_vPU-xfj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500256471883616258/1647049164",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "advertiser_account_type": "none",
+        "advertiser_account_service_levels": [],
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "require_some_consent": false
+      },
+      "1499754322711969796": {
+        "id": 1499754322711969800,
+        "id_str": "1499754322711969796",
+        "name": "Laura Freeman",
+        "screen_name": "LauraFr72834615",
+        "location": "",
+        "description": "In much deeper thought",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 51,
+        "fast_followers_count": 0,
+        "normal_followers_count": 51,
+        "friends_count": 0,
+        "listed_count": 0,
+        "created_at": "Fri Mar 04 14:32:02 +0000 2022",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17,
+        "media_count": 12,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1502694219504406533/ruXIbDGd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1502694219504406533/ruXIbDGd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499754322711969796/1647105196",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "pinned_tweet_ids": [],
+        "pinned_tweet_ids_str": [],
+        "has_custom_timelines": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "advertiser_account_type": "none",
+        "advertiser_account_service_levels": [],
+        "business_profile_state": "none",
+        "translator_type": "none",
+        "withheld_in_countries": [],
+        "require_some_consent": false
+      }
+    },
+    "moments": {},
+    "cards": {},
+    "places": {},
+    "media": {},
+    "broadcasts": {},
+    "topics": {},
+    "lists": {}
+  },
+  "timeline": {
+    "id": "search-6908490034235507477",
+    "instructions": [
+      {
+        "addEntries": {
+          "entries": [
+            {
+              "entryId": "sq-I-t-1502724215602094086",
+              "sortIndex": "999990",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "1502724215602094086",
+                      "displayType": "Tweet"
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAACEAAAAwAAgoAAQAAAAAAAAAACgACNSq7ckWGzeILAAMAAAANZmlsdGVyOnNwYWNlcwoABS7OKG+5zJvZAAAAAAA="
+                      }
+                    }
+                  },
+                  "feedbackInfo": {
+                    "feedbackKeys": [
+                      "givefeedback"
+                    ],
+                    "displayContext": {
+                      "reason": "This Tweet's not helpful"
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "feedback_givefeedback",
+                      "action": "click"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "sq-I-t-1502724260820836364",
+              "sortIndex": "999980",
+              "content": {
+                "item": {
+                  "content": {
+                    "tweet": {
+                      "id": "1502724260820836364",
+                      "displayType": "Tweet"
+                    }
+                  },
+                  "clientEventInfo": {
+                    "component": "result",
+                    "element": "tweet",
+                    "details": {
+                      "timelinesDetails": {
+                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAACEAAAAwAAgoAAQAAAAAAAAAACgACNSq7ckWGzeILAAMAAAANZmlsdGVyOnNwYWNlcwoABS7OKG+5zJvZAAAAAAA="
+                      }
+                    }
+                  },
+                  "feedbackInfo": {
+                    "feedbackKeys": [
+                      "givefeedback"
+                    ],
+                    "displayContext": {
+                      "reason": "This Tweet's not helpful"
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "feedback_givefeedback",
+                      "action": "click"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "sq-cursor-top",
+              "sortIndex": "999999999",
+              "content": {
+                "operation": {
+                  "cursor": {
+                    "value": "refresh:thGAVUV0VFVBYBFoCYm5C379_aKRIYJBJjwusAAAH0P4BiTdLxqfwAAAACFNq_tlpXIAYU2r_A4ZZgDGEV2Ih6FYCJehgHREVGQVVMVDUEFQAVAAA=",
+                    "cursorType": "Top"
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "sq-cursor-bottom",
+              "sortIndex": "0",
+              "content": {
+                "operation": {
+                  "cursor": {
+                    "value": "scroll:thGAVUV0VFVBYBFoCYm5C379_aKRIYJBJjwusAAAH0P4BiTdLxqfwAAAACFNq_tlpXIAYU2r_A4ZZgDGEV2Ih6FYCJehgHREVGQVVMVDUEFQAVAAA=",
+                    "cursorType": "Bottom"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "responseObjects": {
+      "feedbackActions": {
+        "givefeedback": {
+          "feedbackType": "GiveFeedback",
+          "prompt": "This Tweet's not helpful",
+          "confirmation": "Thanks for offering your feedback. Twitter is conducting research to improve search. Choose the option that best reflects your opinion.",
+          "childKeys": [
+            "notrelevant",
+            "notcredible"
+          ],
+          "hasUndoAction": true,
+          "confirmationDisplayType": "Inline",
+          "clientEventInfo": {
+            "component": "result",
+            "element": "feedback_givefeedback",
+            "action": "click"
+          },
+          "icon": "FROWN"
+        },
+        "notrelevant": {
+          "feedbackType": "NotRelevant",
+          "prompt": "This Tweet isn't relevant",
+          "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+          "hasUndoAction": true,
+          "confirmationDisplayType": "Inline",
+          "clientEventInfo": {
+            "component": "result",
+            "element": "feedback_notrelevant",
+            "action": "click"
+          }
+        },
+        "notcredible": {
+          "feedbackType": "NotCredible",
+          "prompt": "This Tweet isn't credible",
+          "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+          "hasUndoAction": true,
+          "confirmationDisplayType": "Inline",
+          "clientEventInfo": {
+            "component": "result",
+            "element": "feedback_notcredible",
+            "action": "click"
+          }
+        }
+      }
+    }
+  }
+}

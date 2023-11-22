@@ -1,0 +1,51 @@
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" minBufferTime="PT1.500S" type="static" mediaPresentationDuration="PT0H0M2.367S" maxSegmentDuration="PT0H0M2.367S" profiles="urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264">
+ <Period duration="PT0H0M2.367S">
+  <AdaptationSet segmentAlignment="true" maxWidth="720" maxHeight="898" maxFrameRate="30" par="720:898" lang="und" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
+   <Representation id="17935675828640627vd" mimeType="video/mp4" codecs="avc1.4D401F" width="720" height="898" frameRate="30" sar="1:1" startWithSAP="1" bandwidth="2071331" FBQualityClass="hd" FBQualityLabel="720w" FBPlaybackResolutionMos="0:100.00,360:90.77,480:86.41,720:73.64">
+    <BaseURL urlExpiration="1646811109">https://scontent-hou1-1.cdninstagram.com/v/t50.2886-16/242908146_4508662539195308_3750958489654012960_n.mp4?_nc_ht=scontent-hou1-1.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=xu-5A2ANOrIAX9tJBf4&amp;tn=-9troGlbLdAhZT_g&amp;edm=AABBvjUBAAAA&amp;ccb=7-4&amp;oh=00_AT-4O_GLkuSPCkW8cRbZzewaAR5wx5TMqaRlVG6ZtC4FNQ&amp;oe=622857E5&amp;_nc_sid=83d603</BaseURL>
+    <SegmentBase indexRangeExact="true" indexRange="915-958" FBFirstSegmentRange="959-612768" FBSecondSegmentRange="0-0" FBPrefetchSegmentRange="959-612768">
+      <Initialization range="0-914"/>
+    </SegmentBase>
+   </Representation>
+  <Representation id="17919850453903949v" mimeType="video/mp4" codecs="avc1.4D401F" width="260" height="324" frameRate="30" sar="1:1" startWithSAP="1" bandwidth="124867" FBQualityClass="sd" FBQualityLabel="260w" FBPlaybackResolutionMos="0:100.00,360:20.18,480:15.76,720:11.52">
+    <BaseURL urlExpiration="1646820636">https://scontent-hou1-1.cdninstagram.com/v/t50.2886-16/242706532_271101288070247_4290937988984228076_n.mp4?_nc_ht=scontent-hou1-1.cdninstagram.com&amp;_nc_cat=111&amp;_nc_ohc=jx8Fnuy48L4AX-bzBpt&amp;edm=AABBvjUBAAAA&amp;ccb=7-4&amp;oh=00_AT--z36VGcOh-_BnlfTtUOx7qfbugUyTEoOtp7hokmJD6g&amp;oe=62287D1C&amp;_nc_sid=83d603</BaseURL>
+    <SegmentBase indexRangeExact="true" indexRange="915-958" FBFirstSegmentRange="959-36939" FBSecondSegmentRange="0-0" FBPrefetchSegmentRange="959-36939">
+      <Initialization range="0-914"/>
+    </SegmentBase>
+   </Representation>
+  <Representation id="17885888390380560v" mimeType="video/mp4" codecs="avc1.4D401F" width="382" height="476" frameRate="30" sar="1:1" startWithSAP="1" bandwidth="211896" FBQualityClass="sd" FBQualityLabel="382w" FBPlaybackResolutionMos="0:100.00,360:34.06,480:25.61,720:16.17">
+    <BaseURL urlExpiration="1646825657">https://scontent-hou1-1.cdninstagram.com/v/t50.2886-16/242921822_945006222747835_510393629565328682_n.mp4?_nc_ht=scontent-hou1-1.cdninstagram.com&amp;_nc_cat=107&amp;_nc_ohc=SueYpFxZrDIAX9smUHi&amp;edm=AABBvjUBAAAA&amp;ccb=7-4&amp;oh=00_AT8lY0KTR_naVl7JB-aeAR-72a5EvrkY3e-KW-6Owu-OCw&amp;oe=622890B9&amp;_nc_sid=83d603</BaseURL>
+    <SegmentBase indexRangeExact="true" indexRange="915-958" FBFirstSegmentRange="959-62685" FBSecondSegmentRange="0-0" FBPrefetchSegmentRange="959-62685">
+      <Initialization range="0-914"/>
+    </SegmentBase>
+   </Representation>
+  <Representation id="17882276711442900v" mimeType="video/mp4" codecs="avc1.4D401F" width="570" height="710" frameRate="30" sar="1:1" startWithSAP="1" bandwidth="426912" FBQualityClass="sd" FBQualityLabel="570w" FBPlaybackResolutionMos="0:100.00,360:52.19,480:41.64,720:25.60">
+    <BaseURL urlExpiration="1646816069">https://scontent-hou1-1.cdninstagram.com/v/t50.2886-16/242926231_265955285397235_3384863893963327154_n.mp4?_nc_ht=scontent-hou1-1.cdninstagram.com&amp;_nc_cat=107&amp;_nc_ohc=QJfHqfEInKoAX9Nfo_a&amp;edm=AABBvjUBAAAA&amp;ccb=7-4&amp;oh=00_AT9PYZ1og-D0iVPP06X9wn8B7Z7VUl6EqJuOeBhrv1mSig&amp;oe=62286B45&amp;_nc_sid=83d603</BaseURL>
+    <SegmentBase indexRangeExact="true" indexRange="916-959" FBFirstSegmentRange="960-126294" FBSecondSegmentRange="0-0" FBPrefetchSegmentRange="960-126294">
+      <Initialization range="0-915"/>
+    </SegmentBase>
+   </Representation>
+  <Representation id="17911591379061397v" mimeType="video/mp4" codecs="avc1.4D401F" width="720" height="898" frameRate="30" sar="1:1" startWithSAP="1" bandwidth="766769" FBQualityClass="hd" FBQualityLabel="720w" FBPlaybackResolutionMos="0:100.00,360:69.36,480:60.13,720:41.45">
+    <BaseURL urlExpiration="1646794114">https://scontent-hou1-1.cdninstagram.com/v/t50.2886-16/242975776_394280575403955_5331890281630592581_n.mp4?_nc_ht=scontent-hou1-1.cdninstagram.com&amp;_nc_cat=103&amp;_nc_ohc=KQhuA4Cad_oAX9kutTV&amp;edm=AABBvjUBAAAA&amp;ccb=7-4&amp;oh=00_AT-oDxALGO2ajMRLoywYDrwmVD1CiZ2nxVbl5D0hu89zPw&amp;oe=62281582&amp;_nc_sid=83d603</BaseURL>
+    <SegmentBase indexRangeExact="true" indexRange="915-958" FBFirstSegmentRange="959-226835" FBSecondSegmentRange="0-0" FBPrefetchSegmentRange="959-226835">
+      <Initialization range="0-914"/>
+    </SegmentBase>
+   </Representation>
+  <Representation id="17886504539347429v" mimeType="video/mp4" codecs="avc1.4D401F" width="720" height="898" frameRate="30" sar="1:1" startWithSAP="1" bandwidth="1263031" FBQualityClass="hd" FBQualityLabel="720w" FBPlaybackResolutionMos="0:100.00,360:83.01,480:76.02,720:60.26">
+    <BaseURL urlExpiration="1646810330">https://scontent-hou1-1.cdninstagram.com/v/t50.2886-16/242819756_250159560270578_6498920203683947244_n.mp4?_nc_ht=scontent-hou1-1.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=FXImdiFuWk0AX8ugy9L&amp;tn=-9troGlbLdAhZT_g&amp;edm=AABBvjUBAAAA&amp;ccb=7-4&amp;oh=00_AT9dRXUiLOYulgBl5bKBUiIsaAgA9Ehe3bDcscWkf5KvbA&amp;oe=622854DA&amp;_nc_sid=83d603</BaseURL>
+    <SegmentBase indexRangeExact="true" indexRange="914-957" FBFirstSegmentRange="958-373646" FBSecondSegmentRange="0-0" FBPrefetchSegmentRange="958-373646">
+      <Initialization range="0-913"/>
+    </SegmentBase>
+   </Representation>
+  </AdaptationSet>
+ <AdaptationSet segmentAlignment="true" lang="und" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
+   <Representation id="17933089465667773ad" mimeType="audio/mp4" codecs="mp4a.40.5" audioSamplingRate="44100" startWithSAP="1" bandwidth="83171">
+    <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+    <BaseURL urlExpiration="1646830526">https://scontent-hou1-1.cdninstagram.com/v/t50.2886-16/242707077_843418709708029_3826314158202589747_n.mp4?_nc_ht=scontent-hou1-1.cdninstagram.com&amp;_nc_cat=101&amp;_nc_ohc=8Gmcxn4JI2AAX-j3uZ0&amp;edm=AABBvjUBAAAA&amp;ccb=7-4&amp;oh=00_AT9qLGls-e1mKn-C5qLqJtNMRJr_gdA0LPjnjGk8A6B_5A&amp;oe=6228A3BE&amp;_nc_sid=83d603</BaseURL>
+    <SegmentBase indexRangeExact="true" indexRange="872-927" FBFirstSegmentRange="928-20068" FBSecondSegmentRange="20069-24592" FBPrefetchSegmentRange="928-24592">
+      <Initialization range="0-871"/>
+    </SegmentBase>
+   </Representation>
+  </AdaptationSet>
+ </Period>
+</MPD>

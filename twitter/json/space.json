@@ -1,0 +1,275 @@
+{
+  "data": {
+    "audioSpace": {
+      "metadata": {
+        "rest_id": "1RDGlgoYkDkKL",
+        "state": "Ended",
+        "title": "Building the future of data for developers 🌏 with Timescale founders",
+        "media_key": "28_1496228425874374659",
+        "created_at": 1645563629945,
+        "scheduled_start": 1645642800000,
+        "started_at": 1645642765967,
+        "ended_at": "1645646660084",
+        "updated_at": 1645646661185,
+        "is_employee_only": false,
+        "is_locked": false,
+        "conversation_controls": 0,
+        "total_participated": 148,
+        "total_replay_watched": 105,
+        "creator_results": {
+          "result": {
+            "__typename": "User",
+            "id": "VXNlcjozMzc3OTE3Mjg5",
+            "rest_id": "3377917289",
+            "affiliates_highlighted_label": {},
+            "has_nft_avatar": false,
+            "legacy": {
+              "created_at": "Wed Jul 15 21:49:02 +0000 2015",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "The leading open-source relational database for time-series. Built on PostgreSQL. GitHub ⭐ appreciated! https://t.co/9HK3eQGIr5",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "github.com/timescale",
+                      "expanded_url": "http://github.com/timescale",
+                      "url": "https://t.co/9HK3eQGIr5",
+                      "indices": [
+                        104,
+                        127
+                      ]
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "timescale.com",
+                      "expanded_url": "http://www.timescale.com/",
+                      "url": "https://t.co/BT63UNDZ3D",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 1566,
+              "followers_count": 5118,
+              "friends_count": 379,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 127,
+              "location": "HQ NYC & Employees Worldwide",
+              "media_count": 792,
+              "name": "Timescale",
+              "normal_followers_count": 5118,
+              "pinned_tweet_ids_str": [],
+              "profile_banner_extensions": {
+                "mediaColor": {
+                  "r": {
+                    "ok": {
+                      "palette": [
+                        {
+                          "percentage": 68.7,
+                          "rgb": {
+                            "blue": 90,
+                            "green": 202,
+                            "red": 254
+                          }
+                        },
+                        {
+                          "percentage": 10.88,
+                          "rgb": {
+                            "blue": 252,
+                            "green": 221,
+                            "red": 196
+                          }
+                        },
+                        {
+                          "percentage": 8.83,
+                          "rgb": {
+                            "blue": 236,
+                            "green": 114,
+                            "red": 20
+                          }
+                        },
+                        {
+                          "percentage": 3.85,
+                          "rgb": {
+                            "blue": 39,
+                            "green": 88,
+                            "red": 110
+                          }
+                        },
+                        {
+                          "percentage": 2.58,
+                          "rgb": {
+                            "blue": 138,
+                            "green": 218,
+                            "red": 255
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/3377917289/1631036081",
+              "profile_image_extensions": {
+                "mediaColor": {
+                  "r": {
+                    "ok": {
+                      "palette": [
+                        {
+                          "percentage": 59.03,
+                          "rgb": {
+                            "blue": 255,
+                            "green": 255,
+                            "red": 255
+                          }
+                        },
+                        {
+                          "percentage": 20.31,
+                          "rgb": {
+                            "blue": 51,
+                            "green": 51,
+                            "red": 51
+                          }
+                        },
+                        {
+                          "percentage": 15.95,
+                          "rgb": {
+                            "blue": 22,
+                            "green": 181,
+                            "red": 251
+                          }
+                        },
+                        {
+                          "percentage": 1.82,
+                          "rgb": {
+                            "blue": 36,
+                            "green": 117,
+                            "red": 153
+                          }
+                        },
+                        {
+                          "percentage": 1.58,
+                          "rgb": {
+                            "blue": 39,
+                            "green": 79,
+                            "red": 93
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410997207147368454/B1-noohJ_normal.jpg",
+              "profile_interstitial_type": "",
+              "protected": false,
+              "screen_name": "TimescaleDB",
+              "statuses_count": 2586,
+              "translator_type": "none",
+              "url": "https://t.co/BT63UNDZ3D",
+              "verified": false,
+              "withheld_in_countries": []
+            }
+          }
+        }
+      },
+      "sharings": {
+        "items": [],
+        "slice_info": {}
+      },
+      "participants": {
+        "total": 0,
+        "admins": [
+          {
+            "periscope_user_id": "1ayjVJaLaxljp",
+            "start": 1645563629945,
+            "twitter_screen_name": "TimescaleDB",
+            "display_name": "Timescale",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1410997207147368454/B1-noohJ_normal.jpg",
+            "is_verified": false,
+            "is_muted_by_admin": false,
+            "is_muted_by_guest": true,
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "has_nft_avatar": false
+              }
+            },
+            "user": {
+              "rest_id": "3377917289"
+            }
+          },
+          {
+            "periscope_user_id": "tw-1290667001099087872",
+            "start": 1645563629945,
+            "twitter_screen_name": "sotoish",
+            "display_name": "carlota☀️",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1420919331014156288/9okh0zUD_normal.jpg",
+            "is_verified": false,
+            "is_muted_by_admin": false,
+            "is_muted_by_guest": true,
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "has_nft_avatar": false
+              }
+            },
+            "user": {
+              "rest_id": "1290667001099087872"
+            }
+          }
+        ],
+        "speakers": [
+          {
+            "periscope_user_id": "1pzQMyklnvRQd",
+            "start": 1645642808529,
+            "twitter_screen_name": "michaelfreedman",
+            "display_name": "Mike Freedman",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1467012089147445251/mTFyCNez_normal.jpg",
+            "is_verified": false,
+            "is_muted_by_admin": false,
+            "is_muted_by_guest": true,
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "has_nft_avatar": false
+              }
+            },
+            "user": {
+              "rest_id": "27865644"
+            }
+          },
+          {
+            "periscope_user_id": "166522",
+            "start": 1645642810526,
+            "twitter_screen_name": "acoustik",
+            "display_name": "Ajay Kulkarni",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1453930704526479369/KL81hmJr_normal.jpg",
+            "is_verified": false,
+            "is_muted_by_admin": false,
+            "is_muted_by_guest": false,
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "has_nft_avatar": false
+              }
+            },
+            "user": {
+              "rest_id": "7377012"
+            }
+          }
+        ],
+        "listeners": []
+      }
+    }
+  }
+}

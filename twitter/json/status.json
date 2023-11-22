@@ -1,0 +1,231 @@
+{
+  "created_at": "Sat Mar 12 04:40:22 +0000 2022",
+  "id": 1502504750054461400,
+  "id_str": "1502504750054461442",
+  "full_text": "Here is a cute clip of my girl Kitten for your viewing pleasure. Have. Nice day. 🤍 https://t.co/UypKekIsJ7",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    82
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1502504713371091000,
+        "id_str": "1502504713371090952",
+        "indices": [
+          83,
+          106
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1502504713371090952/pu/img/Cqr_KKNn1_bJJVWd.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1502504713371090952/pu/img/Cqr_KKNn1_bJJVWd.jpg",
+        "url": "https://t.co/UypKekIsJ7",
+        "display_url": "pic.twitter.com/UypKekIsJ7",
+        "expanded_url": "https://twitter.com/natchan1984/status/1502504750054461442/video/1",
+        "type": "photo",
+        "original_info": {
+          "width": 720,
+          "height": 1280
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1502504713371091000,
+        "id_str": "1502504713371090952",
+        "indices": [
+          83,
+          106
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1502504713371090952/pu/img/Cqr_KKNn1_bJJVWd.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1502504713371090952/pu/img/Cqr_KKNn1_bJJVWd.jpg",
+        "url": "https://t.co/UypKekIsJ7",
+        "display_url": "pic.twitter.com/UypKekIsJ7",
+        "expanded_url": "https://twitter.com/natchan1984/status/1502504750054461442/video/1",
+        "type": "video",
+        "original_info": {
+          "width": 720,
+          "height": 1280
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 8398,
+          "variants": [
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1502504713371090952/pu/vid/480x852/IFGFE4-4t_U686Yg.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1502504713371090952/pu/pl/FeFAYW0o9FWyXCEc.m3u8?tag=12&container=fmp4"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1502504713371090952/pu/vid/320x568/DIHcdJ4ITB-ZX86l.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1502504713371090952/pu/vid/720x1280/0phLcd2XzDzLX9rm.mp4?tag=12"
+            }
+          ]
+        },
+        "media_key": "7_1502504713371090952",
+        "additional_media_info": {
+          "monetizable": false
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2770906321,
+    "id_str": "2770906321",
+    "name": "TheNatchan (づ｡◕‿‿◕｡)づ (She/They/He)",
+    "screen_name": "natchan1984",
+    "location": "Forgotten Realms",
+    "description": "Anime Enthusiast, DnD Player/DM, recent Danmei addict! Currently watching: The Untamed - Netflix",
+    "url": "https://t.co/aeFEBYHkcL",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/aeFEBYHkcL",
+            "expanded_url": "http://twitch.tv/thenatchan1984",
+            "display_url": "twitch.tv/thenatchan1984",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 277,
+    "fast_followers_count": 0,
+    "normal_followers_count": 277,
+    "friends_count": 950,
+    "listed_count": 8,
+    "created_at": "Tue Aug 26 18:59:08 +0000 2014",
+    "favourites_count": 33103,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 15417,
+    "media_count": 3331,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1400954344430718979/iui9QOeA_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400954344430718979/iui9QOeA_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2770906321/1644221356",
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "pinned_tweet_ids": [
+      1490598034593386500
+    ],
+    "pinned_tweet_ids_str": [
+      "1490598034593386496"
+    ],
+    "has_custom_timelines": true,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "advertiser_account_type": "none",
+    "advertiser_account_service_levels": [],
+    "business_profile_state": "none",
+    "translator_type": "none",
+    "withheld_in_countries": [],
+    "require_some_consent": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 8,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "possibly_sensitive_appealable": false,
+  "possibly_sensitive_editable": true,
+  "lang": "en",
+  "supplemental_language": null
+}
